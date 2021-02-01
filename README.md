@@ -1,4 +1,4 @@
-# pythonPygameGameTicTacToe
+# Tic Tac Toe
 A simple Tic Tac Toe game in Python using pygame
 
 This is my first Python Game
